@@ -7,4 +7,4 @@
     <export function="sendMessage" type="server" />
   <script src="Client.lua" type="client" cache="false" />
     <export function="sendMessage" type="client" />
-</meta>
+</meta> query
